@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "moment": "^2.29.4",
-    "monent": "^0.0.2-security"
-  }
-}
