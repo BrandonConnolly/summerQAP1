@@ -1,5 +1,0 @@
-Below is the definition I found for Node.js Events. My understanding of “events” is that depending on what information is gathered by the “listener” trigger which “events” is shown to the user. Example would be if someone enters a postal code properly such as “A0A 2U5” they would be given a response such as “Postal Code Valid” but if the user enters a postal code like “A1A 3HH” They would trigger an event of “Postal Code Not Valid”.
-
-In the context of Node.js, the term "Node events" generally refers to the event-driven architecture and the event-based programming paradigm provided by the Node.js runtime environment. Node.js utilizes an event-driven, non-blocking I/O model that allows applications to respond to various events and perform actions accordingly.
-
-The core of Node.js event-driven programming revolves around the EventEmitter class, which is a built-in module in Node.js. The EventEmitter class provides the foundation for implementing and handling events within Node.js applications. It allows objects (known as "emitters") to emit named events, and other objects (known as "listeners" or "subscribers") to subscribe to and respond to those events.
