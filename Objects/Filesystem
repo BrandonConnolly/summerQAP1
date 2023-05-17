@@ -1,0 +1,3 @@
+Below is the definition I found for Node.js Filesystems. My understanding of “filesystems” is while using “fs” module you are able to create, read edit or delete other files within your program by using different functions in “fs”. Like my explains show I can create a whole new text file with text already in the file using “fs”.
+
+In Node.js, the filesystem (fs) module provides an interface for interacting with the file system. It allows you to perform various file system operations such as reading from and writing to files, creating directories, deleting files, and more. The fs module provides both synchronous and asynchronous methods to handle file system operations, with the asynchronous methods being more commonly used to ensure non-blocking behavior.
