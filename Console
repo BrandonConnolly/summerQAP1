@@ -1,6 +1,0 @@
-Below is the definition I found for Node.js Console. My understanding of “console” that it’s the “print” command of JS. When “console.log” or another vernation is set it allows you to run your code allowing you to see if your line or lines of code are running and giving you the correct response by showing you in the terminal.
-
-Node.js provides a built-in object called console that allows you to interact
-with the command-line or terminal environment in which your Node.js application is running.
-The console object provides various methods that you can use to log or output information,
-debug your code, and interact with the user.
